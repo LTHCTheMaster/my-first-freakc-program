@@ -1,0 +1,54 @@
+change_title[] A Random App
+
+change_mode[] con cols=60 lines=20
+
+label[] randapp
+
+clrscr[]
+
+change_color[] 10
+print[] Hello, World^!
+
+change_color[] 20
+print[] Hello, World^!
+
+change_color[] 30
+print[] Hello, World^!
+
+change_color[] 40
+print[] Hello, World^!
+
+change_color[] 50
+print[] Hello, World^!
+
+change_color[] 60
+print[] Hello, World^!
+
+change_color[] 70
+print[] Hello, World^!
+
+change_color[] 80
+print[] Hello, World^!
+
+change_color[] 90
+print[] Hello, World^!
+
+change_color[] a0
+print[] Hello, World^!
+
+change_color[] b0
+print[] Hello, World^!
+
+change_color[] c0
+print[] Hello, World^!
+
+change_color[] d0
+print[] Hello, World^!
+
+change_color[] e0
+print[] Hello, World^!
+
+change_color[] f0
+print[] Hello, World^!
+
+goto[] randapp
